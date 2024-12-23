@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'jkvice'
+theme = 'hugo-PaperMod'
+sectionPagesMenu = 'main'
